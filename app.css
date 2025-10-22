@@ -1,0 +1,118 @@
+*{
+    box-sizing: border-box;
+    background-color: hsl(47, 88%, 63%);
+    max-width:  1440px;
+   
+ 
+ 
+  
+    
+    
+}.body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 1000px;
+   
+}
+
+
+.first-div{
+    margin: 100px;
+    /*width:410px;
+    /*height: 575px;**/
+    background-color: black;
+    border-radius: 15px;
+    position: relative;
+    z-index: 1;
+}
+
+.second-div{
+     /*width:400px;
+    /*height:550px;**/
+    background-color: white;
+    border-radius: 20px;
+    border: 1px solid black;
+    padding: 6px;
+    font-family: Arial, sans-serif;
+    top: -10px;
+    right: 10px;
+    position: relative;
+    z-index: 2;
+    
+    
+
+}
+
+.yellow-image{
+    width: 350px;
+    border-radius: 15px;
+    margin: 20px; 
+}
+
+.Learning{
+    font-size: 16px; 
+    font-weight: 500px;
+    padding: 6px 12px;
+    color: black;
+    width: 100px;
+    text-align: left;
+    border-radius: 8px;
+    margin-left: 20px;
+    background-color: hsl(47, 88%, 63%);
+    margin-bottom: 20px;
+    
+}
+
+
+
+.published{
+    background-color: white;
+    margin: 20px;
+    
+    
+
+}
+.languages{
+    background-color: white;
+    margin: 20px;
+    line-height: 1.5;
+    text-align: justify;
+    font-size: 16px;
+
+   
+    
+    
+
+    
+
+}
+.heading{
+    background-color: white;
+    margin: 20px;
+
+
+}
+.footer{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    margin: 20px;
+    gap: 8px;
+
+
+}
+.image{
+    background-color: white;
+    width: 30px;
+
+
+
+}
+.greg{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    font-size: 15px;
+    
+}
